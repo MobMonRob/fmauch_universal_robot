@@ -1,0 +1,4 @@
+[submodule "fmauch_universal_robots"]
+	path = fmauch_universal_robots
+	url = https://github.com/fmauch/universal_robot.git
+	branch = calibration_devel
